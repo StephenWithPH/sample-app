@@ -1,5 +1,5 @@
 # What
-A dummy project (2 of 2) to demonstrate what seems like incorrect behavior in pipenv.
+A dummy project (2 of 2) to demonstrate what seems like incorrect behavior in pipenv. See https://github.com/pypa/pipenv/issues/2173
 
 # How
 1. `$ pipenv install && pipenv install -d` to install dependencies. For convenience sake, I checked in the gzipped library to this repo.
