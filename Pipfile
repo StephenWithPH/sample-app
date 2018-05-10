@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+"fa4e777" = {path = "./dependency/samplelibrary-0.0.1.tar.gz"}
 
 [dev-packages]
 pytest = "*"
